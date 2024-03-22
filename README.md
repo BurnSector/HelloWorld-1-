@@ -7,3 +7,14 @@ This is probably the 50th hello world I wrote, but... It's to get more used to t
 
 # Favourite Books
 So I have many books that I really enjoyed. Some of them include Rich Dad Poor Dad by Robert Kiyosaki, Think and Grow Rich by Napoleon Hill, The Four Agreements by Don Miguel Ruiz, As a Man Thinketh by James Allen, an assortment of personal development books by others such as Sanjay Gupta MD and Tim Ferris and Zig Ziggler, and the Artemis Fowl series by Eoin Colfer. Highly underrated series and the movie doesn't do the ingenuity justice.
+
+#Favourite Current Projects
+There's a few coding projects I have floating around, from software/hardware programming to a voice assistant diet and exercise tracker. Some of the things I'm currently working on include:
+-A vision recognition project to recognize the numbers 0-9(to be expanded afterwards.)
+-An excel sheet for nutritional macros for many foods, to see how close I come to balancing them day to day (voice assistant integeration is the next phase).
+-Online portfolio of past projects including demo videos and other documentation.
+-Summarizing most crucial into one-page reference guides for subjects learned over the years(technical concepts including hydraulic/pneumatic/electrical control systems, <p>SQL commands cheat sheet</p>, writing tips for a variety of settings, philisophical insights and personal development tasks,etc.)
+-
+
+#Completed Projects
+This is a placeholder for when I make progress on current projects and will link to other pages in the future. 
