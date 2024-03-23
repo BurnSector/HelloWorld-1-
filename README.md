@@ -10,10 +10,10 @@ So I have many books that I really enjoyed. Some of them include Rich Dad Poor D
 
 # Favourite Current Projects
 There's a few coding projects I have floating around, from software/hardware programming to a voice assistant diet and exercise tracker. Some of the things I'm currently working on include:
--A vision recognition project to recognize the numbers 0-9(to be expanded afterwards.)
--An excel sheet for nutritional macros for many foods, to see how close I come to balancing them day to day (voice assistant integeration is the next phase).
--Online portfolio of past projects including demo videos and other documentation.
--Summarizing most crucial into one-page reference guides for subjects learned over the years(technical concepts including hydraulic/pneumatic/electrical control systems, <p>SQL commands cheat sheet</p>, writing tips for a variety of settings, philisophical insights and personal development tasks,etc.)
+- A vision recognition project to recognize the numbers 0-9(to be expanded afterwards.)
+- An excel sheet for nutritional macros for many foods, to see how close I come to balancing them day to day (voice assistant integeration is the next phase).
+- Online portfolio of past projects including demo videos and other documentation.
+- Summarizing most crucial into one-page reference guides for subjects learned over the years(technical concepts including hydraulic/pneumatic/electrical control systems, <p>SQL commands cheat sheet</p>, writing tips for a variety of settings, philisophical insights and personal development tasks,etc.)
 -
 
 # Completed Projects
